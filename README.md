@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO` Sistemas para Internet
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto de Desenvolvimento Web Front-end
 
-`SEMESTRE`
+`SEMESTRE` 2021/2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Juan Marques
+* Erika Talita Gouvea Marques
 * Nome completo do aluno 3
-* Nome completo do aluno 4
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathália Valentim
 
 ## Instruções de utilização
 
