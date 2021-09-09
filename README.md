@@ -12,8 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Juan Marques
 * Erika Talita Gouvea Marques
-* Nome completo do aluno 3
-
+* Victor Luygg de Melo Santos
 
 ## Orientador
 
