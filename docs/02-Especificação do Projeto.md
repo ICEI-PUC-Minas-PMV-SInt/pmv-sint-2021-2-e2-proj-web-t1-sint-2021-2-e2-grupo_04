@@ -292,34 +292,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001 |O sistema deve conter uma tela de cadastro | ALTA | 
-|RF-002 |O sistema deve conter uma tela de login | ALTA |
-|RF-003 |Permitir que o usuário possa realizar um Post | ALTA | 
-|RF-004 |Permitir que o usuário comente em Posts | ALTA |
-|RF-005 |Permitir que o usuário avalie o bairro | BAIXA |
-|RF-006 |O sistema deve considerar um mecanismo de rating | BAIXA |
-|RF-007 |Permitir que o usuário possa visualizar uma lista com todas a notificações | MÉDIA |
-|RF-008 |Permitir que o usuário possa visualizar outros bairros | ALTA |
-|RF-009 |Permitir que o usuário possa mudar de bairro | ALTA |
-|RF-010 |Permitir que o usuário possa denunciar um Post | BAIXA |
-|RF-011 |Permitir que o usuário possa seguir um tópico especifico | MÉDIA  |
-|RF-012 |Permitir que o usuário possa publicar fotos | ALTA |
-|RF-013 |O sistema deve fornecer um chat | BAIXA |
-|RF-014 |O sistema deve considerar campos especificos para diferentes tipos de posts |ALTA|
-|RF-015 |O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
-|RF-016 |O sistema deve conter um mecanismo de interação com o post | BAIXA |
-|RF-017 |O sistema deve considerar um mecanismo de avaliação de usuários | BAIXA |
-|RF-018 |O sistema deve considerar um destaque para usuários bem avaliados | BAIXA |
-|RF-019 |O sistema deve ter a funcionalidade de logout | ALTA |
-|RF-020 |O sistema deve conter um campo de busca de bairros | ALTA |
-|RF-021 |O sistema deve conter uma tela de perfil | MÉDIA |
-|RF-022 |O sistema deve conter um subsistema de lista telefônica dos residentes | BAIXA |
-|RF-023 |O sistema deve conter uma seção de configurações | MÉDIA |
-|RF-024 |O sistema deve permitir que o usuário altere suas informações de cadastro | ALTA |
-|RF-025 | O sistema deve conter a funcionalidade de recuperar senha | ALTA |
-|RF-026 | Permitir que o usuario possa alterar suas informações pessoais na tela de perfil | MÉDIA |
-
-
+|RF-001 |O sistema deve conter uma tela de cadastro, login, logout e recuperar senha | ALTA | 
+|RF-002 |Permitir que o usuário possa realizar um post, comentar, denunciar e interagir | ALTA | 
+|RF-003 |Permitir que o usuário possa visualizar outros bairros, mudar de bairro e pesquisar | ALTA |
+|RF-004 |O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
+|RF-005 |Permitir que o usuário possa visualizar uma lista com todas a notificações | MÉDIA |
+|RF-006 |O sistema deve conter uma seção de configurações, onde o usuario possa alterar suas informções | MÉDIA |
+|RF-007 |Permitir que o usuário possa seguir um tópico especifico | MÉDIA  |
+|RF-008 |O sistema deve conter uma tela de perfil | MÉDIA |
+|RF-009 |O sistema deve fornecer um chat | BAIXA |
+|RF-010 |O sistema deve considerar um mecanismo de avaliação de usuários | BAIXA |
+|RF-011 |O sistema deve considerar um destaque para usuários bem avaliados | BAIXA |
+|RF-012 |O sistema deve conter um subsistema de lista telefônica dos residentes | BAIXA |
+|RF-013 |Permitir que o usuário avalie o bairro | BAIXA |
 
 ## Requisitos não Funcionais
 
