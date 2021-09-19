@@ -8,7 +8,7 @@ Com isso o objetivo deste projeto é apresentar uma aplicação web que visa a c
 
 ## Problema
 Este projeto busca resolver o problema da falta de engajamento social dos moradores de um bairro, pois identificamos a dificuldade em obter informações locais tais como noticias gerais, entretenimento, segurança, comercio e mercado imobiliário.
-Foram realizadas pesquisas em plataformas como Facebbok, Whatsapp e Instagram.
+Foram realizadas pesquisas em plataformas como Facebook, Whatsapp e Instagram.
 
 ## Objetivos
 
