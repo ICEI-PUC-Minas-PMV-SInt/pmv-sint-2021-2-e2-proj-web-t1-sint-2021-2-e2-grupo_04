@@ -60,7 +60,7 @@ Ferramentas
 - **Whimsical**
 
 Linguagem
-- **TypeScript**
+- **TypeScript 4.x.x**
 - **Java 11**
 
 Linguagem de folha de estilo
