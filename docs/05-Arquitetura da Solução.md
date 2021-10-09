@@ -1,7 +1,5 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ## Diagrama de componentes
@@ -10,26 +8,17 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura 01.
 
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+![image](https://user-images.githubusercontent.com/4424108/136669745-98f22040-ea4d-4ea6-8c50-f1d675bde881.png)
+
+<center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
-
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+- **Web App** - Front end do sistema.
+   - **Real-time Database** - Base de dados real-time que sera utilizada para o chat.
+- **Backend** - Lógicas de negócios , conexão com banco de dados.
+   - **Database** - Armazenamento dos dados persistidos.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
@@ -60,14 +49,50 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Para desenvolvimento será utilizado as seguintes ferramentas e linguagens:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Ide
+- **Jetbrains Webstorm**
+- **Visual studio code**
+
+Ferramentas
+- **Figma**
+- **Whimsical**
+
+Linguagem
+- **Javascript ecmascript 6**
+- **Java 11**
+
+Linguagem de folha de estilo
+- **CSS3**
+- **SASS**
+- **Tailwind**
+
+Bibliotecas
+- **ReactJS**
+- **Style Components**
+- **react-toastify**
+- **react-hook-form**
+- **react-modal**
+
+Framework
+- **Spring Boot**
+- **Spring Data**
+- **Spring WebFlux**
+
+Backend-as-a-Service (BaaS)
+- **Firebase**
+
+Hospedagem
+- **Heroku**
+
+Api
+- **https://viacep.com.br/ws/${cep}/json/**
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Foram criados 2 apps no Heroku onde um está associado a branch staging e a outra associada a branch master ambas com deploy automáticos. 
 
 > **Links Úteis**:
 >
