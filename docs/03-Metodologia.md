@@ -36,7 +36,7 @@ etiquetas:
 
 ### Processo
 
-Estamos utilizando git issue management para acompanhar o progresso da sprint e distribuir as tarefas, além disso efetuamos reuniões com o PO toda as terças e temo Daily Standup Meetings.
+Estamos utilizando git issue management para acompanhar o progresso da sprint e distribuir as tarefas, além disso efetuamos reuniões com o PO todas quinta-feira e realizamos Daily Standup Meetings.
 
 ### Ferramentas
 
