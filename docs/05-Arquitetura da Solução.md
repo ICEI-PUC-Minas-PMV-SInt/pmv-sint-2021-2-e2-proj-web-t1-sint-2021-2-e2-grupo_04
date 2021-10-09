@@ -89,14 +89,6 @@ Hospedagem
 Api
 - **https://viacep.com.br/ws/${cep}/json/**
 
-
 ## Hospedagem
 
 Foram criados 2 apps no Heroku onde um está associado a branch staging e a outra associada a branch master ambas com deploy automáticos. 
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
