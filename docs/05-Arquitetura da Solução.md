@@ -60,17 +60,15 @@ Ferramentas
 - **Whimsical**
 
 Linguagem
-- **Javascript ecmascript 6**
+- **TypeScript**
 - **Java 11**
 
 Linguagem de folha de estilo
-- **CSS3**
-- **SASS**
+- **Style Components**
 - **Tailwind**
 
 Bibliotecas
 - **ReactJS**
-- **Style Components**
 - **react-toastify**
 - **react-hook-form**
 - **react-modal**
