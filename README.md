@@ -12,7 +12,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Juan Marques
 * Erika Talita Gouvea Marques
-* Victor Luygg de Melo Santos
 
 ## Orientador
 
