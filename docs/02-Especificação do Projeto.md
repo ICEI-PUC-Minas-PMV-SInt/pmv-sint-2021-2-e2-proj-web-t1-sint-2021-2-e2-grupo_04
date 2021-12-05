@@ -297,7 +297,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-003 |Permitir que o usuário possa visualizar outros bairros, mudar de bairro e pesquisar | ALTA |
 |RF-004 |O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
 |RF-005 |Permitir que o usuário possa visualizar uma lista com todas a notificações | MÉDIA |
-|RF-006 |O sistema deve conter uma seção de configurações, onde o usuario possa alterar suas informções | MÉDIA |
+|RF-006 |O sistema deve conter uma seção de configurações, onde o usuario possa alterar suas informações | MÉDIA |
 |RF-007 |Permitir que o usuário possa seguir um tópico especifico | MÉDIA  |
 |RF-008 |O sistema deve conter uma tela de perfil | MÉDIA |
 |RF-009 |O sistema deve fornecer um chat | BAIXA |
